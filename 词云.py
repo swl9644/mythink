@@ -4,11 +4,12 @@ import pickle
 from wordcloud import WordCloud,STOPWORDS,ImageColorGenerator
 import jieba
 # import codecs
+print("第一次运行程序时将分好的词存入文件")
 # fin = codecs.open('HotelComments.txt',mode = 'r', encoding = 'utf-8')
 # print fin.read()
 
 #对GitHub上代码的存储托管功能进行理解和测试
-print("测试GitHub上的部分功能！")
+
 # text = ''
 # with open('HotelComments.txt') as fin:
 #     for line in fin.readlines():
