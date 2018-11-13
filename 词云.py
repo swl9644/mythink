@@ -8,7 +8,7 @@ import jieba
 # print fin.read()
 
 #对GitHub上代码的存储托管功能进行理解和测试
-
+print("测试GitHub上的部分功能！")
 # text = ''
 # with open('HotelComments.txt') as fin:
 #     for line in fin.readlines():
