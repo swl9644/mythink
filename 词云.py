@@ -4,7 +4,6 @@ import pickle
 from wordcloud import WordCloud,STOPWORDS,ImageColorGenerator
 import jieba
 # import codecs
-print("第一次运行程序时将分好的词存入文件")
 # fin = codecs.open('HotelComments.txt',mode = 'r', encoding = 'utf-8')
 # print fin.read()
 
